@@ -1,0 +1,16 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    background-color:rgba(49, 70, 147, 0.822);
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+#main-heading{
+    font-size: x-large;
+    color: white;
+}
+
+
+
